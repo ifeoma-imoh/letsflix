@@ -19,15 +19,7 @@ function Banner() {
   }, []);
 
   console.log(movie);
-  return (
-    <header>
-      {" "}
-      {/* background image */}
-      {/* title */}
-      {/* div with two buttons */}
-      {/* description */}
-    </header>
-  );
+  return <header></header>;
 }
 
 export default Banner;
